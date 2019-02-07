@@ -11,9 +11,16 @@ Airbnb Messaging Bot (TOBOT)
 ```
 
 Hi, I'm TOBOT.
+
 I'll respond to all your guest requests. So you don't have to.
+
 I'm an intelligent property manager for Airbnb Hosts.
+
 I make you more productive by managing your short term rentals.
+
 My goal is to get you more guests and make you more money.
+
 Sign up for my free beta, I'm ready to help.
-[Sign up](email:cpark16@gmail.com?subject='TOBOT beta')
+
+
+(Sign up)[email:cpark16@gmail.com?subject='TOBOT beta']
