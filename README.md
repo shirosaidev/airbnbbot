@@ -10,7 +10,6 @@ Airbnb Messaging Bot (TOBOT)
     /:] [:\        Airbnb Messaging Bot
 ```
 
-<html>
 <div class="typewriter">
     <div class="typewriter-text">Hi, I'm TOBOT.
 
@@ -25,6 +24,7 @@ My goal is to get you more guests and make you more money.
 Download my beta software (coming soon), I'm ready to help.</div>
 </div>
 
+<style>
 .typewriter {
     font-family: Courier, monospace;
 	display: inline-block;
@@ -59,4 +59,4 @@ Download my beta software (coming soon), I'm ready to help.</div>
         border-color: orange; 
     }
 }
-</html>
+</style>
