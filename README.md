@@ -40,11 +40,11 @@ Install python requirements using pip
 
 `$ pip install -r requirements.txt`
 
-Copy config.py.sample to config.py and edit.
+Copy `config.py.sample` to `config.py` and edit.
 
-Copy corpus file tobot_corpus.txt.sample to tobot_corpus.txt.
+Copy corpus file `tobot_corpus.txt.sample` to `tobot_corpus.txt`.
 
-Edit tobot_corpus.txt and create word and sentence tokens. Corpus file is the base brain for the bot which contains words/sentences used by nltk and sklearn to help the bot respond to questions.
+Edit `tobot_corpus.txt` and create word and sentence tokens. Corpus file is the base brain for the bot which contains words/sentences used by nltk and sklearn to help the bot respond to questions.
 
 Set environment variables for Airbnb login username and password.
 
@@ -65,3 +65,6 @@ Start up TOBOT:
 ```sh
 $ python airbnb_bot.py
 ```
+
+On first start up `tobot_db.sqlite` (sqlite3) database will be created in same directory.
+This database is where TOBOT stores new things it learns and assoications between sentences and words.
