@@ -42,6 +42,10 @@ Install python requirements using pip
 
 Copy config.py.sample to config.py and edit.
 
+Copy corpus file tobot_corpus.txt.sample to tobot_corpus.txt.
+
+Edit tobot_corpus.txt and create word and sentence tokens. Corpus file is the base brain for the bot which contains words/sentences used by nltk and sklearn to help the bot respond to questions.
+
 Set environment variables for Airbnb login username and password.
 
 ```sh
