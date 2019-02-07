@@ -46,14 +46,14 @@ Copy corpus file `tobot_corpus.txt.sample` to `tobot_corpus.txt`.
 
 Edit `tobot_corpus.txt` and create word and sentence tokens. Corpus file is the base brain for the bot which contains words/sentences used by nltk and sklearn to help the bot respond to questions.
 
-Set environment variables for Airbnb login username and password.
+Set environment variables for Airbnb login username and password (you can also set these in config.py).
 
 ```sh
 $ export TOBOT_LOGIN=<airbnb_login_username>
 $ export TOBOT_PASSWORD=<airbnb_login_password>
 ```
 
-Set environment variables for Airbnb api key and oauth token. (if you don't know these, don't set now and TOBOT will ask you if you want to look them up)
+Set environment variables for Airbnb api key and oauth token. If you don't know these, don't set now and TOBOT will ask you if you want to look them up. (you can also set these in config.py)
 
 ```sh
 $ export TOBOT_APIKEY=<airbnb_apikey>
