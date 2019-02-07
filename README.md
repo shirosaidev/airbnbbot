@@ -20,7 +20,4 @@ I make you more productive by managing your short term rentals.
 
 My goal is to get you more guests and make you more money.
 
-Sign up for my free beta, I'm ready to help.
-
-
-[BETA SIGNUP](mailto:cpark16@gmail.com?Subject=TOBOT%20beta)
+Download my beta software (coming soon), I'm ready to help.
