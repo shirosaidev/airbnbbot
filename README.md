@@ -67,4 +67,4 @@ $ python airbnb_bot.py
 ```
 
 On first start up `tobot_db.sqlite` (sqlite3) database will be created in same directory.
-This database is where TOBOT stores new things it learns and assoications between sentences and words.
+This database is where TOBOT stores new things it learns and associations between sentences and words.
