@@ -38,23 +38,23 @@ $ cd airbnbbot
 
 Install python requirements using pip
 
-`pip install -r requirements.txt`
+`$ pip install -r requirements.txt`
 
 Copy config.py.sample to config.py and edit.
 
 Set environment variables for Airbnb login username and password.
 
-``sh
+```sh
 $ export TOBOT_LOGIN=<airbnb_login_username>
 $ export TOBOT_PASSWORD=<airbnb_login_password>
-``
+```
 
 Set environment variables for Airbnb api key and oauth token. (if you don't know these, don't set now and TOBOT will ask you if you want to look them up)
 
-``sh
+```sh
 $ export TOBOT_APIKEY=<airbnb_apikey>
 $ export TOBOT_OAUTHTOKEN=<airbnb_oauthtoken>
-``
+```
 
 Start up TOBOT:
 
