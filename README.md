@@ -23,4 +23,4 @@ My goal is to get you more guests and make you more money.
 Sign up for my free beta, I'm ready to help.
 
 
-(Sign up)[email:cpark16@gmail.com?subject='TOBOT beta']
+[Sign up](mailto:cpark16@gmail.com?Subject=TOBOT%20beta)
