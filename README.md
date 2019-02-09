@@ -70,4 +70,10 @@ $ python airbnb_bot.py
 On first start up `tobot_db.sqlite` (sqlite3) database will be created in same directory.
 This database is where TOBOT stores new things it learns and associations between sentences and words.
 
+## Options/Settings
+
 By default, Tobot runs in testing and training mode. This is helpful for the first few days or so to test and train Tobot. To turn off these modes, set `training` and `testing` to `False` in config file.
+
+Tobot will send replies to new guests that have approved bookings. To turn this off set `send_new_booking_msg` to `False` in config.
+
+Tobot also sends messages to guests in the morning on their check out day. To turn this off set `send_checkout_msg` to `False` in config.
