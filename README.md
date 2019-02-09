@@ -69,3 +69,5 @@ $ python airbnb_bot.py
 
 On first start up `tobot_db.sqlite` (sqlite3) database will be created in same directory.
 This database is where TOBOT stores new things it learns and associations between sentences and words.
+
+By default, Tobot runs in testing and training mode. This is helpful for the first few days or so to test and train Tobot. To turn off these modes, set `training` and `testing` to `False` in config file.
