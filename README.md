@@ -22,7 +22,7 @@ Download my beta software (coming soon), I'm ready to help.
 [![Donate PayPal](https://img.shields.io/badge/Donate%20%24-PayPal-brightgreen.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLF223XAS4W72)
 
 ## What is Tobot?
-Tobot is an intelligent property manager for Airbnb Hosts which uses AI and machine learning. It will try to reply to all your guest messages. It can send replies to your guests for commonly asked questions and also send messages for new booking instructions and check out day messages, etc.. It's written in Python, you can run it on your Mac/Linux/Windows computer or in cloud such as AWS.
+Tobot is an intelligent Airbnb host assistant which uses AI and machine learning. It will try to reply to all your guest messages. It can send replies to your guests for commonly asked questions and also send messages for new booking instructions and check out day messages, etc.. It's written in Python, you can run it on your Mac/Linux/Windows computer or in cloud such as AWS.
 
 <img src="https://github.com/shirosaidev/airbnbbot/blob/master/docs/tobot_terminal.png?raw=true" alt="TOBOT terminal" />
 <img src="https://github.com/shirosaidev/airbnbbot/blob/master/docs/tobot_cli.png?raw=true" alt="TOBOT cli" />
