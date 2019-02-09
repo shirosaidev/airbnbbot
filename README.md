@@ -17,7 +17,7 @@ My goal is to get you more guests and make you more money.
 Download my beta software (coming soon), I'm ready to help.
 
 <img src="https://github.com/shirosaidev/airbnbbot/blob/master/docs/tobot_terminal.png?raw=true" alt="TOBOT terminal" />
-<img src="https://github.com/shirosaidev/airbnbbot/blob/master/docs/tobot_terminal.png?raw=true" alt="TOBOT terminal" />
+<img src="https://github.com/shirosaidev/airbnbbot/blob/master/docs/tobot_cli.png?raw=true" alt="TOBOT cli" />
 
 ## Requirements
 - Python 3. (tested with Python 3.6.5)
