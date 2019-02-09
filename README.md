@@ -24,6 +24,9 @@ Download my beta software (coming soon), I'm ready to help.
 <img src="https://github.com/shirosaidev/airbnbbot/blob/master/docs/tobot_terminal.png?raw=true" alt="TOBOT terminal" />
 <img src="https://github.com/shirosaidev/airbnbbot/blob/master/docs/tobot_cli.png?raw=true" alt="TOBOT cli" />
 
+## Patreon
+If you are using Tobot and it's helping you host your guests, please consider becoming a [Patron[(https://www.patreon.com/shirosaidev) to help advance Tobot.
+
 ## Requirements
 - Python 3. (tested with Python 3.6.5)
 - nltk python module
@@ -32,7 +35,7 @@ Download my beta software (coming soon), I'm ready to help.
 - textblob python module
 - sklearn python module
 
-### Download
+## Download
 
 ```shell
 $ git clone https://github.com/airbnbbot/airbnbbot.git
