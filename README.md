@@ -16,6 +16,11 @@ I make you more productive by managing your short term rentals.
 My goal is to get you more guests and make you more money.
 Download my beta software (coming soon), I'm ready to help.
 
+[![License](https://img.shields.io/github/license/shirosaidev/airbnbbot.svg?label=License&maxAge=86400)](./LICENSE)
+[![Release](https://img.shields.io/github/release/shirosaidev/airbnbbot.svg?label=Release&maxAge=60)](https://github.com/shirosaidev/airbnbbot/releases/latest)
+[![Sponsor Patreon](https://img.shields.io/badge/Sponsor%20%24-Patreon-brightgreen.svg)](https://www.patreon.com/shirosaidev)
+[![Donate PayPal](https://img.shields.io/badge/Donate%20%24-PayPal-brightgreen.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLF223XAS4W72)
+
 <img src="https://github.com/shirosaidev/airbnbbot/blob/master/docs/tobot_terminal.png?raw=true" alt="TOBOT terminal" />
 <img src="https://github.com/shirosaidev/airbnbbot/blob/master/docs/tobot_cli.png?raw=true" alt="TOBOT cli" />
 
