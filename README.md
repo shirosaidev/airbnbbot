@@ -28,7 +28,7 @@ Tobot is an intelligent Airbnb host assistant which uses AI and machine learning
 <img src="https://github.com/shirosaidev/airbnbbot/blob/master/docs/tobot_cli.png?raw=true" alt="TOBOT cli" />
 
 ## Patreon
-If you are using Tobot and it's helping you host your guests, please consider becoming a [Patron](https://www.patreon.com/shirosaidev) to help advance Tobot.
+If you are a fan of the project or using Tobot and it's helping you host your guests, please consider becoming a [Patron](https://www.patreon.com/shirosaidev) to help advance Tobot.
 
 ## Requirements
 - Python 3. (tested with Python 3.6.5)
