@@ -1,13 +1,3 @@
-```
-     .===./`
-    /.n n.\      __________  ____  ____  ______     
-    "\_=_/"     /_  __/ __ \/ __ )/ __ \/_  __/    
-  (m9\:::/\      / / / / / / __  / / / / / / 
-     /___\6     / / / /_/ / /_/ / /_/ / / /  
-     [] []     /_/  \____/_____/\____/ /_/   
-    /:] [:\        Airbnb Messaging Bot
-```
-
 # Airbnb Messaging Bot (TOBOT)
 <blockquote>Hi, I'm TOBOT.
 I'll respond to all your guest requests, so you don't have to.
