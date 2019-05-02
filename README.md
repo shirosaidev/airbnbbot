@@ -4,7 +4,7 @@ I'll respond to all your guest requests, so you don't have to.
 I'm an intelligent property manager for Airbnb Hosts.
 I make you more productive by managing your short term rentals.
 My goal is to get you more guests and make you more money.
-Download my beta software (coming soon), I'm ready to help.</blockquote>
+Download my beta software, I'm ready to help.</blockquote>
 
 [![License](https://img.shields.io/github/license/shirosaidev/airbnbbot.svg?label=License&maxAge=86400)](./LICENSE)
 [![Release](https://img.shields.io/github/release/shirosaidev/airbnbbot.svg?label=Release&maxAge=60)](https://github.com/shirosaidev/airbnbbot/releases/latest)
@@ -13,6 +13,8 @@ Download my beta software (coming soon), I'm ready to help.</blockquote>
 
 ## What is Tobot?
 Tobot is an intelligent Airbnb host assistant which uses AI and machine learning. It will try to reply to all your guest messages. It can send replies to your guests for commonly asked questions and also send messages for new booking instructions and check out day messages, etc.. It's written in Python, you can run it on your Mac/Linux/Windows computer or in cloud such as AWS.
+
+**Tobot is still in very early beta development and not all functionality is working/tested.**
 
 <img src="https://github.com/shirosaidev/airbnbbot/blob/master/docs/tobot_terminal.png?raw=true" alt="TOBOT terminal" />
 <img src="https://github.com/shirosaidev/airbnbbot/blob/master/docs/tobot_cli.png?raw=true" alt="TOBOT cli" />
