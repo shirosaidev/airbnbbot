@@ -33,7 +33,7 @@ If you are a fan of the project or using Tobot and it's helping you host your gu
 ## Download
 
 ```shell
-$ git clone https://github.com/airbnbbot/airbnbbot.git
+$ git clone https://github.com/shirosaidev/airbnbbot.git
 $ cd airbnbbot
 ```
 [Download latest version](https://github.com/shirosaidev/airbnbbot/releases/latest)
